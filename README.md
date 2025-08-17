@@ -30,7 +30,7 @@ EcoFlow is a modern web application designed to help users track, analyze, and r
 1. Clone the repository:
    ```sh
    git clone <your-repo-url>
-   cd project-bolt-sb1-wgfthvyu (1)/project
+   cd project
    ```
 2. Install dependencies:
    ```sh
